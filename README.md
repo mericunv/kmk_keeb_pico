@@ -1,5 +1,7 @@
 # kmk_keeb_pico
-A Handwired keyboard with Raspberry Pi Pico and KMK Firmware. This repo is made to note my progress as I go on and to guide others that want to handwire their keyboards.
+A Handwired keyboard with Raspberry Pi Pico and KMK Firmware.
+
+This repo is made to note my progress as I go on and to guide others that want to handwire their keyboards.
 
 
 
