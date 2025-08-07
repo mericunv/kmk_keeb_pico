@@ -8,4 +8,4 @@ Here's the wiring you should be going for:
 (4x4 matrix example)
 
 
-In the example picture there are 4 columns and 4 rows so 16 switches and diodes. The diodes are neccerary to keep the current flowing in the wrong direction so that the pi pico can actually understand what key you are pressing.
+In the example picture there are 4 columns and 4 rows so 16 switches and diodes. The diodes are neccerary to keep the current flowing in the wrong direction so that the pi pico can actually understand what key you are pressing. The rows and columns can be connected to the GP pins on the microcontroller.(Pins between GP20-GP28 might cause some problems since they are ADC and might be input only but I haven't tried it. So be wary.) Also try to connect consequent rows and columns to consequent pins so it doesn't get mixed up while coding.
