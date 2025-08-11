@@ -19,6 +19,15 @@ The rows and columns can be connected to the GP pins on the microcontroller.(Pin
 In the example image rows 1-4 are connected to GP0, GP2, GP4, GP6 respectively. Columns 1-4 are connected to GP1, GP3, GP5, GP7. You could also change the direction of the diodes since we specify the direction in the code anyways.
 
 
+**PARTS:**
+
+The Switches: You can use pretty much any switch you want. For my keyboard I used Holy Panda MMD V2s. Just make sure when you print the board it fits the switches.
+
+Cables: Use copper cables that are easy to use with solder. Thicker cables might help keeping stuff organized.
+
+Diodes: 1N4148 will do fine they are pretty cheap. Get one for each switch and some extras as they might get burnt.
+
+
 
 https://matt3o.com/hand-wiring-a-custom-keyboard/
 
