@@ -11,7 +11,7 @@ keyboard = KMKKeyboard()
 
 
 
-
+#for debugging
 keyboard.debug_enabled = True
 print("KMK is running")
 
