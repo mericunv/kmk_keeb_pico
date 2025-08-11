@@ -21,7 +21,11 @@ In the example image rows 1-4 are connected to GP0, GP2, GP4, GP6 respectively. 
 
 
 https://matt3o.com/hand-wiring-a-custom-keyboard/
+
 https://deskthority.net/viewtopic.php?f=7&t=6050
+
 https://geekhack.org/index.php?topic=87689.0
+
 https://www.reddit.com/r/MechanicalKeyboards/comments/8aw5j2/invisible_hardline_keyboard_progress_update_april/
+
 https://www.reddit.com/r/MechanicalKeyboards/comments/4l0p41/guide_detailed_guide_to_making_a_custom_keyboard/
