@@ -25,7 +25,7 @@ The Switches: You can use pretty much any switch you want. For my keyboard I use
 
 Cables: Use copper cables that are easy to use with solder. Thicker cables might help keeping stuff organized.
 
-Diodes: 1N4148 will do fine they are pretty cheap. Get one for each switch and some extras as they might get burnt.
+Diodes: 1N4148 will do fine. They are pretty cheap. Get one for each switch and some extras as they might get burnt.
 
 
 
