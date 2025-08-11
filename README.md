@@ -3,7 +3,7 @@ A Handwired keyboard with Raspberry Pi Pico and KMK Firmware.
 
 This repo is made to note my progress as I go on and to guide others that want to handwire their keyboards.
 
-**THE SCHEMATIC:**
+#**THE SCHEMATIC:**
 
 Here's the wiring you should be going for:
 
@@ -19,23 +19,23 @@ The rows and columns can be connected to the GP pins on the microcontroller.(Pin
 In the example image rows 1-4 are connected to GP0, GP2, GP4, GP6 respectively. Columns 1-4 are connected to GP1, GP3, GP5, GP7. You could also change the direction of the diodes since we specify the direction in the code anyways.
 
 
-**PARTS:**
+#**PARTS:**
 
-The Switches: You can use pretty much any switch you want. For my keyboard I used Holy Panda MMD V2s. Just make sure when you print the board it fits the switches. If you don't know what to buy get cherry or gateron switches.
+##The Switches: You can use pretty much any switch you want. For my keyboard I used Holy Panda MMD V2s. Just make sure when you print the board it fits the switches. If you don't know what to buy get cherry or gateron switches.
 
-Cables: Use copper cables that are easy to use with solder. Thicker cables might help keeping stuff organized.
+##Cables: Use copper cables that are easy to use with solder. Thicker cables might help keeping stuff organized.
 
-Diodes: 1N4148s will do fine. They are pretty cheap. Get one for each switch and some extras as they might get burnt.
+##Diodes: 1N4148s will do fine. They are pretty cheap. Get one for each switch and some extras as they might get burnt.
 
-Keycaps: You can buy keycap sets from amazon or aliexpress. If you are going to add leds to your build make sure you get transparent ones.(rgb or leds won't be mentioned in this guide)
+##Keycaps: You can buy keycap sets from amazon or aliexpress. If you are going to add leds to your build make sure you get transparent ones.(rgb or leds won't be mentioned in this guide)
 
-Stabilizers: You need these for your longer keys ie. spacebar shift etc. Decide what type of stabilizer you're going to buy before designing the plate so that they fit.
+##Stabilizers: You need these for your longer keys ie. spacebar shift etc. Decide what type of stabilizer you're going to buy before designing the plate so that they fit.
 
-Soldering Equipment: You don't really need much, A soldering iron, some soler(leaded prefferably), flux(optional but helps a lot), and a holder for the iron is all you need.
+##Soldering Equipment: You don't really need much, A soldering iron, some soler(leaded prefferably), flux(optional but helps a lot), and a holder for the iron is all you need.
 
-The Case: 3D printing the case is your best bet. You could also get a metal or a wooden case but it might get too expensive.
+##The Case: 3D printing the case is your best bet. You could also get a metal or a wooden case but it might get too expensive.
 
-The plate: This is where things get a little more complicated. First go to https://www.keyboard-layout-editor.com. The website is pretty intuitive. You don't need to label the keys as this is only for the layout. Build the layout you want and it should give you a .svg file. Once you have the file go to builder.swillkb.com. Choose raw file. 
+##The plate: This is where things get a little more complicated. First go to https://www.keyboard-layout-editor.com. The website is pretty intuitive. You don't need to label the keys as this is only for the layout. Build the layout you want and it should give you a .svg file. Once you have the file go to builder.swillkb.com. Choose raw file. 
 Switch Type: MX 
 
 Stabilizer Type : “Cherry + Costar” 
