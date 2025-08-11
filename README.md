@@ -65,6 +65,8 @@ After you enter these settings you click CAD output and choose .svg file. You sh
 ### Microcontroller:
 I used a raspberry pi pico and it has worked wonderfully with the kmk firmware but you can try different microcontrollers. I've seen a lot of people use teensy so you can check it out. You also don't have to use kmk as the firmware QMK is also a really strong tool and they also have guides in their [website](https://docs.qmk.fm).
 
+### Screws:
+You should use M2 screws and M2 spacers if you used the mount hole size given in this guide but this is of course optional. Make sure you choose the right lenght for the screws.
 
 
 https://matt3o.com/hand-wiring-a-custom-keyboard/
