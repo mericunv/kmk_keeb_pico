@@ -63,7 +63,7 @@ Kerf: 0.15mm
 After you enter these settings you click CAD output and choose .svg file. You should be able to upload this to a metal cutting service and have it delivered. I would recommend aluminum as it durable and lightweight.
 
 ## Microcontroller:
-I used a raspberry pi pico and it has worked wonderfully with the kmk firmware but you can try different microcontrollers. I've seen a lot of people use teensy so you can check it out. You also don't have to use kmk as the firmware QMK is also a really strong tool and they also have guides in their website docs.qmk.fm.
+I used a raspberry pi pico and it has worked wonderfully with the kmk firmware but you can try different microcontrollers. I've seen a lot of people use teensy so you can check it out. You also don't have to use kmk as the firmware QMK is also a really strong tool and they also have guides in their [website](https://docs.qmk).
 
 
 
