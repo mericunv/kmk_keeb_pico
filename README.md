@@ -36,14 +36,22 @@ Soldering Equipment: You don't really need much, A soldering iron, some soler(le
 The Case: 3D printing the case is your best bet. You could also get a metal or a wooden case but it might get too expensive.
 
 The plate: This is where things get a little more complicated. First go to https://www.keyboard-layout-editor.com. The website is pretty intuitive. You don't need to label the keys as this is only for the layout. Build the layout you want and it should give you a .svg file. Once you have the file go to builder.swillkb.com. Choose raw file. 
-Switch Type: MX \n
-Stabilizer Type : “Cherry + Costar” \n
-Case Type: “Sandwich” \n
+Switch Type: MX 
+
+Stabilizer Type : “Cherry + Costar” 
+
+Case Type: “Sandwich” 
+
 Mount Holes: 8 (unless you want more/less), 2.1mm diameter
+
 Width Padding: 6 mm (Sets the border of the keyboard, 6 mm is a safe bet but you could go more if you want)
+
 Height Padding: 6 mm
+
 Plate Corners: 2 mm (Rounds the corners)
+
 Kerf: 0.15mm
+
 After you enter these settings you click CAD output and choose .svg file. You should be able to upload this to a metal cutting service and have it delivered. I would recommend aluminum as it durable and lightweight.
 
 
