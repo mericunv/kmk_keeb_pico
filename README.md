@@ -68,7 +68,7 @@ I used a raspberry pi pico and it has worked wonderfully with the kmk firmware b
 ### Screws:
 You should use M2 screws and M2 spacers if you used the mount hole size given in this guide but this is of course optional. Make sure you choose the right lenght for the screws.
 
-##Useful Links
+## Useful Links
 https://matt3o.com/hand-wiring-a-custom-keyboard/
 
 https://deskthority.net/viewtopic.php?f=7&t=6050
